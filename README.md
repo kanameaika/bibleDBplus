@@ -48,3 +48,5 @@ Soures:
 https://github.com/garygriswold/BibleDB
 
 https://github.com/NewHopeMinistry/BibleDB
+
+精读圣经
