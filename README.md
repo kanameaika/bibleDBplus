@@ -54,4 +54,6 @@ https://github.com/garygriswold/BibleDB
 
 https://github.com/NewHopeMinistry/BibleDB
 
+https://lxl.cn/bible
+
 精读圣经
