@@ -7,7 +7,10 @@ The Bible Database Plus (bibleDBplus) is a comprehensive collection of various t
 **Versions included**:
 
 - **Chinese Translations**:
-  - **和合本修订版（简化版） (Revised Chinese Union Version Simplified)**: A modern Chinese translation revised based on the Union Version, and the language is concise and easy to understand, suitable for modern readers.
+  - **和合本修订版（简化版） (Revised Chinese Union Version Simplified, RCUVS)**: A modern Chinese translation revised based on the Union Version, and the language is concise and easy to understand, suitable for modern readers.
+ 
+- **English Translations**:
+  - **American King James Version (AKJV)**: A translation of the Bible based on the original King James Version. It is a simple word for word update from the King James English.
 
 **Versions which will be included**:
 
