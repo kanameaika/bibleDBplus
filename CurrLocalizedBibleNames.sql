@@ -1,0 +1,1 @@
+UPDATE Bible set localizedName = '简体中文: 和合本修订版（简化版）' WHERE bibleId = 'RCUVS'; -- zh-Hans Chinese [English: Revised Chinese Union Version Simplified] (Chinese: 和合本修订版（简化版）) {现代汉语译本}
