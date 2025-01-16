@@ -149,6 +149,7 @@ UPDATE Bible set localizedName = 'Señor Jesucristopa alli willacuynin' WHERE bi
 UPDATE Bible set localizedName = 'Mushog Testamento' WHERE bibleId = 'QXOLLB'; -- qu Southern Conchucos Ancash Quechua [None] (Southern Conchucos Ancash Quechua New Testament) {Mushog Testamento}
 -- 400 matching names QXRBSE (2010 Edition NT) {2010 Edition NT}
 UPDATE Bible set localizedName = '2010 Edition NT' WHERE bibleId = 'QXRBSE'; -- qu Cañar Highland Quichua [None] (2010 Edition NT) {2010 Edition NT}
+UPDATE Bible set localizedName = '简体中文: 和合本修订版（简化版）' WHERE bibleId = 'RCUVS'; -- zh-Hans Chinese [English: Revised Chinese Union Version Simplified] (Chinese: 和合本修订版（简化版）) {现代汉语译本}
 UPDATE Bible set localizedName = 'Română: Versiune ușor de citit' WHERE bibleId = 'RONERV'; -- ro Romanian [English: Readable version] (Romanian: Easy-to-Read Version) {Traducere în limba română modernă}
 UPDATE Bible set localizedName = 'Biblie' WHERE bibleId = 'RUMWTC'; -- ro Romanian [Bible] (Bible) {Bible}
 UPDATE Bible set localizedName = 'Русский синодальный перевод' WHERE bibleId = 'RUSS76'; -- ru Russian [Russian synodal translation] (Russian Synodal Translation) {Синодальный перевод}
