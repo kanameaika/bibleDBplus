@@ -4,7 +4,12 @@
 
 The Bible Database Plus (bibleDBplus) is a comprehensive collection of various translations and versions of the Bible, providing users with access to a wide range of texts from different languages and historical periods. This database aims to facilitate comparative study, scholarly research, and personal devotion by offering multiple versions of the Bible in one place. It is still in the initial stage currently.
 
-**Included Versions**:
+**Versions included**:
+
+- **Chinese Translations**:
+  - **和合本修订版（简化版） (Revised Chinese Union Version Simplified)**: A modern Chinese translation revised based on the Union Version, and the language is concise and easy to understand, suitable for modern readers.
+
+**Versions which will be included**:
 
 - **Chinese Translations**:
   - **和合本 (Heheben)**: A traditional Chinese translation widely used in China and among Chinese-speaking communities worldwide.
